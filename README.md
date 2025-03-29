@@ -213,8 +213,8 @@ Este projeto foi um desafio, pois exigiu a migração de um sistema monolítico 
 ### Prints
 
 ![Imagem da Pagina de Usuarios](prints/PaginaUsuarios.png)
-![Imagem da Pagina de Categoria dos memes](prints/PaginaCategoria.png)
+![Imagem da Pagina de Categoria dos memes](prints/PaginaCategoriaMemes.png)
 ![Imagem da Pagina de Memes](prints/PaginaMeme.png)
 ![Imagem dos Logs de Usuarios](prints/LogsUsuarios.png)
-![Imagem dos Logs de Categorias e dos Memes](prints/LogsCategoria&Memes.png)
+![Imagem dos Logs de Categorias e dos Memes](prints/LogsCategorias&Memes.png)
 
